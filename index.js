@@ -3,7 +3,7 @@ const reset = document.getElementById("reset");
 const plus = document.getElementById("plus"); 
 const countlabel = document.getElementById("countlabel");
 let count = 0;
-//asasdasdasdsa
+//asasdasdasdsaasdas
 
 plus.addEventListener("click", function() { 
     count++;
